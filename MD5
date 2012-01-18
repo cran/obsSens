@@ -1,4 +1,4 @@
-5c2497a54a9a572fbf6533763354da2a *DESCRIPTION
+0e7ab65c71c08fea66793d81dc81c2f2 *DESCRIPTION
 baa0fced492c6c7676486c379ab6a318 *NAMESPACE
 1fe40fa769dbc8c463bb9c2d72d55250 *R/obsSensCCC.R
 57af3055f0a311fcf0299a8eb79efdf3 *R/obsSensCCN.R
@@ -12,6 +12,6 @@ a39cfb030b96f95416a21664ba89fb7a *R/obsSensSCN.R
 ac00d8a03d41c729e1ad280995aba6bc *R/print.obsSens.R
 6f175283c5489df8a077052b422d71e1 *R/print.summary.obsSens.R
 cb77d2a862a2f576e9e5d2f2ccddf8e0 *R/summary.obsSens.R
-37e54aa9284f0ef9c9aa3d8a5afc7382 *man/obsSens-package.Rd
+9d5d8618dc558a83d80e45bef6eadfdf *man/obsSens-package.Rd
 5ce7a4443192fda92b050250b3d80595 *man/obsSensCCC.Rd
-5f6c46272d017bb32576d8a6a28047c9 *man/print.obsSens.Rd
+deebceb4217770e6bbfb0bd467cade38 *man/print.obsSens.Rd
